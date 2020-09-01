@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<elementoProductos>
+  <productos>
+    <codigo>1</codigo>
+    <codigoBarra>2312</codigoBarra>
+    <nombre>Leche</nombre>
+    <descripcion>Es una Leche rica</descripcion>
+    <presentacion>
+      <descripcion>Buena presentacio</descripcion>
+      <abreviatura>as</abreviatura>
+    </presentacion>
+    <clasificacion>
+      <descripcion>dada</descripcion>
+      <abreviatura>e</abreviatura>
+    </clasificacion>
+  </productos>
+  <productos>
+      <codigo>2</codigo>
+    <codigoBarra>312</codigoBarra>
+    <nombre>Bebidas</nombre>
+    <descripcion>Nuevas Bebidas</descripcion>
+    <presentacion>
+      <descripcion>asd</descripcion>
+      <abreviatura>r</abreviatura>
+    </presentacion>
+    <clasificacion>
+      <descripcion>adasd</descripcion>
+      <abreviatura>t</abreviatura>
+    </clasificacion>
+  </productos>
+     <productos>
+      <codigo>3</codigo>
+    <codigoBarra>312213</codigoBarra>
+    <nombre>Queso</nombre>
+    <descripcion>Nuevos ricos Quesos</descripcion>
+    <presentacion>
+      <descripcion>asd</descripcion>
+      <abreviatura>r</abreviatura>
+    </presentacion>
+    <clasificacion>
+      <descripcion>adasd</descripcion>
+      <abreviatura>t</abreviatura>
+    </clasificacion>
+  </productos>
+    <productos>
+      <codigo>4</codigo>
+    <codigoBarra>312534</codigoBarra>
+    <nombre>Crema</nombre>
+    <descripcion>Bonitas Cremas</descripcion>
+    <presentacion>
+      <descripcion>asd</descripcion>
+      <abreviatura>r</abreviatura>
+    </presentacion>
+    <clasificacion>
+      <descripcion>adasd</descripcion>
+      <abreviatura>t</abreviatura>
+    </clasificacion>
+  </productos>
+</elementoProductos> 
+

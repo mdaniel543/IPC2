@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<elementoProveedores>
+  <proveedores>
+    <NIT>98796546</NIT>
+    <nombre>Marcelo</nombre>
+    <direccion>Zona 15</direccion>
+    <telefono>45646465</telefono>
+    <personaContacto>griss</personaContacto>
+    <correoElectronico>sfsf</correoElectronico>
+    <limiteCredito>6465</limiteCredito>
+  </proveedores>
+</elementoProveedores> 

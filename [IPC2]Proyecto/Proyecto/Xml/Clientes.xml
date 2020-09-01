@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<elementoClientes>
+  <clientes>
+    <NIT>13242</NIT>
+    <nombre>Josue</nombre>
+    <direccion>Zona 5</direccion>
+    <telefono>465446</telefono>
+    <personaContacto>Miguel</personaContacto>
+    <correoElectronico>fsfd@gmail.com</correoElectronico>
+    <limiteCredito>5655</limiteCredito>
+    <diasCredito>14</diasCredito>
+    <categoria>
+      <codigo>556</codigo>
+      <abreviatura>AS</abreviatura>
+      <descripcion>Es</descripcion>
+    </categoria>
+  </clientes>
+  <clientes>
+    <NIT>3213</NIT>
+    <nombre>Karla</nombre>
+    <direccion>Zona 4</direccion>
+    <telefono>54654</telefono>
+    <personaContacto>Wendy</personaContacto>
+    <correoElectronico>adas@gmail.com</correoElectronico>
+    <limiteCredito>231</limiteCredito>
+    <diasCredito>12</diasCredito>
+    <categoria>
+      <codigo>32</codigo>
+      <abreviatura>Er</abreviatura>
+      <descripcion>En</descripcion>
+    </categoria>
+  </clientes>
+</elementoClientes>
+ 

@@ -1,0 +1,2 @@
+C:\Users\Marcela\source\repos\[IPC2]Proyecto\Bibloteca\obj\Debug\Bibloteca.csprojAssemblyReference.cache
+C:\Users\Marcela\source\repos\[IPC2]Proyecto\Bibloteca\obj\Debug\Bibloteca.csproj.CoreCompileInputs.cache
